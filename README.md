@@ -9,15 +9,15 @@ This tool can help you check the touch sample rate of the Android device.
 
 # Test result
 - Galaxy Tab S7+
-- Touch: 120 Hz
-- S-Pen (Hover): ~333 Hz
-- S-Pen (Down): ~370 Hz
+    - Touch: 120 Hz
+    - S-Pen (Hover): ~333 Hz
+    - S-Pen (Down): ~370 Hz
 
 - Galaxy S20 FE
-- Touch: 120 Hz
+    - Touch: 120 Hz
 
 - Dell S2240T Monitor
-- Touch: 200Hz
+    - Touch: 200Hz
 
 # Screenshot
 
